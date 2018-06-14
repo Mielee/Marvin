@@ -1,8 +1,8 @@
----?image=assets/image/jeremy-bishop.jpg
+---?image=assets/image/jeremy-bishop.jpg  //demander a fabienne photo born2hack
 
-# Space
+# Marvin - Born2Hack
 
-### A GitPitch Presentation Template
+### A galactic project presentation
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
