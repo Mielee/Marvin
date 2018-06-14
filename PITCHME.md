@@ -1,4 +1,4 @@
----?image=assets/image/jeremy-bishop.jpg  //demander a fabienne photo born2hack
+---?image=assets/image/Born2Hack.jpg
 
 # Marvin - Born2Hack
 
@@ -6,7 +6,7 @@
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-## Tips!
+## 
 
 <br>
 
@@ -16,14 +16,13 @@
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-## Template Features
+## Features
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+- Interaction with students / piscinineux |
+- Interaction with visitors | 
+- Interaction avec l'environnement |
+- Deplacement (roue omnidirectionnelle) |
+- Doc open-source 
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
