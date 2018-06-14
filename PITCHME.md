@@ -1,6 +1,6 @@
 ---?image=assets/image/Born2Hack.jpg
 
-# Marvin - Born2Hack
+# Marvin
 
 ### A galactic project presentation
 
